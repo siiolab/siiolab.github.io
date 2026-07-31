@@ -1,3 +1,3 @@
-* siiolab.github.io
+# siiolab.github.io
 
 Web pages for siiolab.
